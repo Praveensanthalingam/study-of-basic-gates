@@ -66,14 +66,23 @@ Y= A⊕B
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: RegisterNumber: 
- 
-**Logic symbol & Truthtable**
+ Developed by:PRAVEEN SANTHALINGAM M RegisterNumber: 24010143
+ ![Screenshot (22)](https://github.com/user-attachments/assets/bc41f3f9-76a7-4c6d-9450-19f007095c4b)
 
-**RTL realization Output:** 
+**Logic symbol & Truthtable**
+![Screenshot 2024-11-28 141032](https://github.com/user-attachments/assets/e15c96d2-4ceb-45c7-badf-37389bd21358)
+
+
+**RTL realization Output:**
+![Screenshot (21)](https://github.com/user-attachments/assets/350da2ac-2142-450f-8adb-d8b4092ab148)
+
 
 **RTL**
+![Screenshot (24)](https://github.com/user-attachments/assets/80dd4070-a52a-4e90-b297-9aa8c38a6f2f)
+
 
 **Result:**
+The truth table of the specified logicgates(AND,OR,NOT,NAND,NOR,XOR,XNOR)
+was successfully implemented and verified  using verilog programming in Quartus II
 
 
